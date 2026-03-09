@@ -1,15 +1,14 @@
-/* Mobile First */
-
 *{
 margin:0;
 padding:0;
 box-sizing:border-box;
 font-family: Arial, sans-serif;
+
 }
 
 body{
-line-height:1.6;
-background:#f4f4f4;
+line-height:1,6;
+background:#f0f0f0;
 color:#333;
 padding:10px;
 }
@@ -21,6 +20,7 @@ text-align:center;
 background:#222;
 color:white;
 padding:20px;
+
 }
 
 /* Navigation */
@@ -37,7 +37,7 @@ color:white;
 text-decoration:none;
 padding:10px;
 display:block;
-}
+line-height:1.5;}
 
 nav a:hover{
 background:#666;
